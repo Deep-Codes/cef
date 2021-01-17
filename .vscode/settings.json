@@ -1,0 +1,11 @@
+// After installing Ruby extenion in VSCode, use these settings:
+{
+  "editor.formatOnSave": true,
+  "files.autoSave": "onFocusChange",
+  "editor.tabSize": 2,
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "files.trimTrailingWhitespace": true,
+  "ruby.format": "rufo",
+  "ruby.useLanguageServer": true
+}
